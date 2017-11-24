@@ -1,4 +1,4 @@
-package com.sevenheaven.zxingdemo;
+package one.chchy.libqrcode.generator;
 
 /**
  * *          _       _

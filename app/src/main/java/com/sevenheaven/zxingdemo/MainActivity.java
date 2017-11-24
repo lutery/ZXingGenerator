@@ -8,6 +8,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
 
+import one.chchy.libqrcode.generator.QRCode;
+
 public class MainActivity extends AppCompatActivity {
     ImageView qrcode1;
     ImageView qrcode2;
